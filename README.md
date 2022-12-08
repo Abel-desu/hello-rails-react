@@ -36,7 +36,7 @@
 
 # 📖 Hello Rails React <a name="about-project"></a>
 
-**Hello Rails React** This is an App that have React-Redux for frontend and Ruby on Rails for Backend which took data from Api and display on home page
+**Hello Rails React** is an App that have React-Redux for frontend and Ruby on Rails for Backend which took data from Api and display on home page
 
 ## 🛠 Built With <a name="built-with"></a>
 
@@ -95,7 +95,7 @@ Clone this repository to your desired folder:
 
 ```sh
   cd my-folder
-  git clone git@github.com:amejid/hello-react-rails.git
+  git clone https:/github.com/Abel-desu/hello-rails-react.git
 ```
 
 ### Install
